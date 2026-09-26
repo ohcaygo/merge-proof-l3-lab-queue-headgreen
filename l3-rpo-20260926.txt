@@ -1,0 +1,1 @@
+Controlled L3 receipt-to-recovery timing fixture, 2026-09-26.
